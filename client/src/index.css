@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Poppins";
+  src: url('../public/fonts/TYPo\ POPPINS/Poppins-Regular.ttf') format("truetype")
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
